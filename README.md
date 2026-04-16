@@ -1,1 +1,1 @@
-# interactive-marketing
+# haptic-marketing
